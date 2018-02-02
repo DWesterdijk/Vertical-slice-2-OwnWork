@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneAI.Plugins", "HearthstoneAI.Plugins.csproj", "{6308BA56-D411-257D-3129-75CAEF683FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneAI", "HearthstoneAI.csproj", "{6480F888-0159-1A3A-D28D-A0431B014660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6308BA56-D411-257D-3129-75CAEF683FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6308BA56-D411-257D-3129-75CAEF683FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6308BA56-D411-257D-3129-75CAEF683FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6308BA56-D411-257D-3129-75CAEF683FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6480F888-0159-1A3A-D28D-A0431B014660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6480F888-0159-1A3A-D28D-A0431B014660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6480F888-0159-1A3A-D28D-A0431B014660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6480F888-0159-1A3A-D28D-A0431B014660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
